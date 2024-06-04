@@ -29,7 +29,7 @@ Press on chain icon, type video url from youtube (e.g. https://www.youtube.com/w
 
 ### Results
 
-On your download folder, you will have in .mp4 format the video..
+On your download folder, you will have the video in .mp4 format.
 
 ![](https://raw.githubusercontent.com/RossoDev/youtubedownloader/main/img/youtubedownloaderconfirmmessage.png)
 ![](https://raw.githubusercontent.com/RossoDev/youtubedownloader/main/img/youtubedownloaderresultmp4.png)
