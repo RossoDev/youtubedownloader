@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="youtubedownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="lightpanel" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">224, 224, 224</Value>
+    </Setting>
+    <Setting Name="paneldark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">45, 45, 48</Value>
+    </Setting>
+    <Setting Name="lightform" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ButtonFace</Value>
+    </Setting>
+    <Setting Name="darkform" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">30, 30, 30</Value>
+    </Setting>
+    <Setting Name="lighttext" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="darktext" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">212, 212, 212</Value>
+    </Setting>
+    <Setting Name="checkstatus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checkstatust" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="panelmoverlight" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Brown</Value>
+    </Setting>
+    <Setting Name="panelmoverdark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
